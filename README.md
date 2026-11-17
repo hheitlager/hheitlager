@@ -29,6 +29,7 @@ Outside of my professional work, I enjoy experimenting with operating systems, a
 | **[Emberveil](https://github.com/hheitlager/emberveil)** | A collection of desktop customization projects, utilities, and experiments. |
 | **[Mawaqit](https://github.com/hheitlager/windhawk-mawaqit)** | Bringing prayer times and countdowns to the Windows taskbar. |
 | **[Simple System Resources](https://github.com/hheitlager/simple-system-resources)** | Lightweight system monitoring integrated into the Windows taskbar. |
+| **[Simple Wallpaper Switcher](https://github.com/hheitlager/simple-wallpaper-switcher)** | A lightweight compact visual wallpaper switcher with several smooth transitions. |
 | **[Virtual Desktop Manager](https://github.com/hheitlager/virtual-desktop-manager)** | Customizable virtual desktop indicators and navigation. |
 
 ---
